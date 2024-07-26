@@ -193,6 +193,14 @@ header h1 {
     grid-template-columns: auto auto auto;
 }
 
+.button{
+    background-color: #0af529;
+    border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+
 @media screen and (max-width: 1015px){
     .bir13{
         grid-template-columns: auto auto;
